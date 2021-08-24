@@ -14,5 +14,5 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 ﻿![](https://i.imgur.com/Wr9tQMi.png)
  
  [Pagina]: https://javascript30.com/
- [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20-%20Drum%20Kit/js/app.js
- [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20-%20JS%20Clock/js/app.js
+ [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
+ [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
