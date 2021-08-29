@@ -18,7 +18,12 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - ✔️ Completado, codigo fuente [CSSVariables]
 ﻿![](https://i.imgur.com/5DqDBip.png)
  
+  ## Dia 5 - Flex Panel Gallery
+  - ✔️ Completado, codigo fuente [FlexPanelGallery]
+  ﻿![](https://i.imgur.com/M1cbwJf.png)
+ 
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
  [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
  [CSSVariables]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/3%20CSS%20Variables/js/app.js
+ [FlexPanelGallery]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/5%20Flex%20Panel%20Gallery/js/app.js
