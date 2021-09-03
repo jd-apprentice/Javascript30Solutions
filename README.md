@@ -39,7 +39,7 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 ## Dia 10 - Hold Shift and Check Checkboxes
 - ✔️ Completado, codigo fuente [HoldShift]
 - Atajos del teclado en la web
-﻿![](https://i.imgur.com/iyp4Bvz.png)
+﻿![](https://cdn.discordapp.com/attachments/875262629516546089/883135793185579018/unknown.png)
  
 ## Dia 11 - Custom Video Player
 - ✔️ Completado, codigo fuente [VideoPlayer]
