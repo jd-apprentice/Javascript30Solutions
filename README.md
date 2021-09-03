@@ -30,6 +30,10 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - ✔️ Completado, codigo fuente [HTML5Canvas]
 ﻿![](https://i.imgur.com/LMaU2YP.png)
  
+ ## Dia 10 - Hold Shift and Check Checkboxes
+- ✔️ Completado, codigo fuente [HoldShift]
+﻿![](https://i.imgur.com/iyp4Bvz.png)
+ 
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
  [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
@@ -37,3 +41,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [FlexPanelGallery]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/5%20Flex%20Panel%20Gallery/js/app.js
  [TypeAhead]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/6%20Type%20Ahead/js/app.js
  [HTML5Canvas]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/8%20Fun%20with%20HTML5%20Canvas/js/app.js
+ [HoldShift]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/js/app.js
