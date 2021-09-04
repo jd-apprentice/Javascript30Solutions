@@ -46,6 +46,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - Reproductor de video de HTML5 modificado
 ﻿![](https://i.imgur.com/D97FbBu.png)
  
+## Dia 12 - Key Detection
+- ✔️ Completado, codigo fuente [KeyDetection]
+- Como detectar lo que escribis y activar un evento
+﻿![](https://i.imgur.com/tFNqE0w.png)
+ 
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
  [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
@@ -55,3 +60,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [HTML5Canvas]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/8%20Fun%20with%20HTML5%20Canvas/js/app.js
  [HoldShift]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/js/app.js
  [VideoPlayer]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/11%20-%20Custom%20Video%20Player/js/app.js
+ [KeyDetection]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/12%20-%20Key%20Sequence%20Detection/js/app.js
