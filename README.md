@@ -51,6 +51,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - Como detectar lo que escribis y activar un evento
 ﻿![](https://i.imgur.com/tFNqE0w.png)
  
+## Dia 13 - Slide in on Scroll
+- ✔️ Completado, codigo fuente [SlideScroll]
+- Animacion de fotos a medida que vas scrolleando
+﻿![](https://i.imgur.com/UWTDlle.png)
+ 
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
  [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
@@ -61,3 +66,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [HoldShift]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/js/app.js
  [VideoPlayer]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/11%20-%20Custom%20Video%20Player/js/app.js
  [KeyDetection]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/12%20-%20Key%20Sequence%20Detection/js/app.js
+ [SlideScroll]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/13%20-%20Slide%20in%20on%20Scroll/js/app.js
