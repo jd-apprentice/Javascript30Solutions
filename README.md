@@ -61,6 +61,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - Persistencia de datos con localStorage
 ﻿![](https://i.imgur.com/coPijJ4.png)
  
+ ## Dia 16 - Mouse Shadow/Position
+- ✔️ Completado, codigo fuente [Movement]
+- Movimiento/Sombra en base a la posicion del cursor
+﻿![](https://i.imgur.com/2N5turE.png)
+ 
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
  [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
@@ -73,3 +78,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [KeyDetection]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/12%20-%20Key%20Sequence%20Detection/js/app.js
  [SlideScroll]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/13%20-%20Slide%20in%20on%20Scroll/js/app.js
  [LocalStorage]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/15%20-%20LocalStorage/js/app.js
+ [Movement]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/16%20-%20Mouse%20Shadow/js/app.js
