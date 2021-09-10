@@ -65,6 +65,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - ✔️ Completado, codigo fuente [Movement]
 - Movimiento/Sombra en base a la posicion del cursor
 ﻿![](https://i.imgur.com/2N5turE.png)
+
+ ## Dia 17 - Sort Without Articles
+- ✔️ Completado, codigo fuente [SortArticles]
+- Ordenando un array sin los articulos
+﻿![](https://i.imgur.com/cf3Y8xB.png)
  
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
@@ -79,3 +84,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [SlideScroll]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/13%20-%20Slide%20in%20on%20Scroll/js/app.js
  [LocalStorage]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/15%20-%20LocalStorage/js/app.js
  [Movement]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/16%20-%20Mouse%20Shadow/js/app.js
+ [SortArticles]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/17%20-%20Sort%20Without%20Articles/js/app.js
