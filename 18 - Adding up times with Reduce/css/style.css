@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+
+body {
+  background: radial-gradient(
+      circle,
+      rgba(0, 0, 0, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%
+    ),
+    url("https://www.teahub.io/photos/full/160-1609765_sobre-la-educacion.jpg");
+  background-size: cover;
+  background-position: left;
+  background-repeat: no-repeat;
+}
+
+.container {
+  padding: 15px;
+}
+
+ul > li {
+  list-style: lower-greek;
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+.nombreVideo,
+.duracionVideo {
+  display: block;
+}
