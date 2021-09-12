@@ -70,6 +70,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - ✔️ Completado, codigo fuente [SortArticles]
 - Ordenando un array sin los articulos
 ﻿![](https://i.imgur.com/cf3Y8xB.png)
+
+ ## Dia 18 - Adding up times with Reduce
+- ✔️ Completado, codigo fuente [Reduce]
+- Convertir nodos a array y sumarlos con reduce
+﻿![](https://i.imgur.com/8R5Hc5v.png)
  
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
@@ -85,3 +90,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [LocalStorage]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/15%20-%20LocalStorage/js/app.js
  [Movement]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/16%20-%20Mouse%20Shadow/js/app.js
  [SortArticles]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/17%20-%20Sort%20Without%20Articles/js/app.js
+ [Reduce]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/18%20-%20Adding%20up%20times%20with%20Reduce/js/app.js
