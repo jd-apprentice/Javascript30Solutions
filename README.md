@@ -75,6 +75,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - ✔️ Completado, codigo fuente [Reduce]
 - Convertir nodos a array y sumarlos con reduce
 ﻿![](https://i.imgur.com/8R5Hc5v.png)
+
+ ## Dia 19 - Webcam Fun
+- ✔️ Completado, codigo fuente [Webcam]
+- Manejo de la camara, algunos filtros pero estan comentados
+﻿![](https://i.imgur.com/4rZUclm.png)
  
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
@@ -91,3 +96,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [Movement]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/16%20-%20Mouse%20Shadow/js/app.js
  [SortArticles]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/17%20-%20Sort%20Without%20Articles/js/app.js
  [Reduce]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/18%20-%20Adding%20up%20times%20with%20Reduce/js/app.js
+ [Webcam]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/19%20-%20Webcam%20Fun/js/app.js
