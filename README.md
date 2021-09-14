@@ -87,6 +87,12 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - Detection de voz, con un comando especial para abrir mi perfil de gitub
 ﻿![](https://i.imgur.com/KqYQDCw.png)
  
+  ## Dia 21 - Geolocation
+- ✔️ Completado, codigo fuente [Location]
+- Utilizando bluestacks con un joystick como motor de movimiento
+- Deteccion de geolocalizacion utilizado en el celular, incluyendo velocidad
+﻿![](https://i.imgur.com/iZRE2Hk.png)
+ 
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
  [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
@@ -104,3 +110,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [Reduce]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/18%20-%20Adding%20up%20times%20with%20Reduce/js/app.js
  [Webcam]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/19%20-%20Webcam%20Fun/js/app.js
  [Speech]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/20%20-%20Speech%20Detection/js/app.js
+ [Location]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/21%20-%20Geolocation/js/app.js
