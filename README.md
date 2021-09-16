@@ -93,6 +93,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - Deteccion de geolocalizacion utilizado en el celular, incluyendo velocidad
 ﻿![](https://i.imgur.com/iZRE2Hk.png)
  
+  ## Dia 22 - Follow Along Link Highlighter
+- ✔️ Completado, codigo fuente [Follow]
+- Seguimiento de cursor y actualizacion flexible de hover/highlight
+﻿![](https://i.imgur.com/VsE751V.png)
+ 
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
  [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
@@ -111,3 +116,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [Webcam]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/19%20-%20Webcam%20Fun/js/app.js
  [Speech]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/20%20-%20Speech%20Detection/js/app.js
  [Location]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/21%20-%20Geolocation/js/app.js
+ [Follow]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/22%20-%20Follow%20Along%20Link%20Highlighter/js/app.js
