@@ -98,6 +98,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - Seguimiento de cursor y actualizacion flexible de hover/highlight
 ﻿![](https://i.imgur.com/VsE751V.png)
  
+  ## Dia 23 - Speech Synthesis
+- ✔️ Completado, codigo fuente [Synthesis]
+- Texto a voz, la cantidad de voces varia del sistema operativo
+﻿![](https://i.imgur.com/g4eQdOr.png)
+ 
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
  [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
@@ -117,3 +122,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [Speech]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/20%20-%20Speech%20Detection/js/app.js
  [Location]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/21%20-%20Geolocation/js/app.js
  [Follow]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/22%20-%20Follow%20Along%20Link%20Highlighter/js/app.js
+ [Synthesis]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/23%20-%20Speech%20Synthesis/js/app.js
