@@ -102,6 +102,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - ✔️ Completado, codigo fuente [Synthesis]
 - Texto a voz, la cantidad de voces varia del sistema operativo
 ﻿![](https://i.imgur.com/g4eQdOr.png)
+
+  ## Dia 24 - Sticky Navbar
+- ✔️ Completado, codigo fuente [NavBar]
+- Fixed navbar con animacion
+﻿![](https://i.imgur.com/n4nMk9u.png)
  
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
@@ -123,3 +128,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [Location]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/21%20-%20Geolocation/js/app.js
  [Follow]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/22%20-%20Follow%20Along%20Link%20Highlighter/js/app.js
  [Synthesis]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/23%20-%20Speech%20Synthesis/js/app.js
+ [NavBar]
