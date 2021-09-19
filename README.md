@@ -107,6 +107,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - ✔️ Completado, codigo fuente [NavBar]
 - Fixed navbar con animacion
 ﻿![](https://i.imgur.com/n4nMk9u.png)
+
+  ## Dia 26 - Stripe Follow Along Nav
+- ✔️ Completado, codigo fuente [Stripe]
+- Dropdown que se autoajusta al contenido
+﻿![](https://i.imgur.com/v9HB4VK.png)
  
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
@@ -128,4 +133,5 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [Location]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/21%20-%20Geolocation/js/app.js
  [Follow]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/22%20-%20Follow%20Along%20Link%20Highlighter/js/app.js
  [Synthesis]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/23%20-%20Speech%20Synthesis/js/app.js
- [NavBar]
+ [NavBar]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/24%20-%20Sticky%20Nav/js/app.js
+ [Stripe]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/26%20-%20Stripe%20Follow%20Along%20Nav/js/app.js
