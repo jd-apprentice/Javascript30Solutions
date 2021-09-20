@@ -117,10 +117,10 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - Arrastrar elementos con el mouse, drag/swiper
 ﻿![](https://i.imgur.com/CSmLUFx.png)
  
- ## Dia 27 - Click and Drag
-- ✔️ Completado, codigo fuente [Drag]
-- Arrastrar elementos con el mouse, drag/swiper
-﻿![](https://i.imgur.com/CSmLUFx.png)
+ ## Dia 28 - Video Speed Controller
+- ✔️ Completado, codigo fuente [Video]
+- Controlar la velocidad del video
+﻿![](https://i.imgur.com/NDlzEyF.png)
  
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
@@ -145,3 +145,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [NavBar]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/24%20-%20Sticky%20Nav/js/app.js
  [Stripe]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/26%20-%20Stripe%20Follow%20Along%20Nav/js/app.js
  [Drag]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/27%20-%20Click%20and%20Drag/js/app.js
+ [Video]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/28%20-%20Video%20Speed%20Controller/js/app.js
