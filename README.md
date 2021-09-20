@@ -117,6 +117,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - Arrastrar elementos con el mouse, drag/swiper
 ﻿![](https://i.imgur.com/CSmLUFx.png)
  
+ ## Dia 27 - Click and Drag
+- ✔️ Completado, codigo fuente [Drag]
+- Arrastrar elementos con el mouse, drag/swiper
+﻿![](https://i.imgur.com/CSmLUFx.png)
+ 
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
  [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
