@@ -133,13 +133,21 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  ## Dia 29 - Countdown Timer
 - ✔️ Completado, codigo fuente [Timer]
 - Temporizador para tareas
+<<<<<<< HEAD
 ﻿![29](https://user-images.githubusercontent.com/68082746/134417251-0d33b4b0-b5df-45e3-99ff-b47a5f4e1f14.gif)
 
+=======
+﻿![](https://i.imgur.com/YOjrRKA.png)
+>>>>>>> af3dbb0cfa456736f03eb4a40ca5b8ab700faaad
 
  ## Dia 30 - Whack A Mole
 - ✔️ Completado, codigo fuente [Mole]
 - Mini-juego de pegarle a los animalitos
+<<<<<<< HEAD
 ﻿![30](https://user-images.githubusercontent.com/68082746/134417267-9c82d7ae-fdde-4763-985d-abb9de874238.gif)
+=======
+﻿![](https://i.imgur.com/njGFmyk.png)
+>>>>>>> af3dbb0cfa456736f03eb4a40ca5b8ab700faaad
  
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
@@ -166,4 +174,8 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [Drag]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/27%20-%20Click%20and%20Drag/js/app.js
  [Video]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/28%20-%20Video%20Speed%20Controller/js/app.js
  [Timer]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/29%20-%20Countdown%20Timer/js/app.js
+<<<<<<< HEAD
  [Mole]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/30%20-%20Whack%20A%20Mole/js/app.js
+=======
+ [Mole]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/30%20-%20Whack%20A%20Mole/js/app.js
+>>>>>>> af3dbb0cfa456736f03eb4a40ca5b8ab700faaad
