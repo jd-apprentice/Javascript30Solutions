@@ -122,6 +122,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - Controlar la velocidad del video
 ﻿![](https://i.imgur.com/NDlzEyF.png)
  
+ ## Dia 29 - Countdown Timer
+- ✔️ Completado, codigo fuente [Timer]
+- Temporizador para tareas
+﻿![](https://i.imgur.com/YOjrRKA.png)
+ 
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
  [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
@@ -146,3 +151,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [Stripe]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/26%20-%20Stripe%20Follow%20Along%20Nav/js/app.js
  [Drag]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/27%20-%20Click%20and%20Drag/js/app.js
  [Video]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/28%20-%20Video%20Speed%20Controller/js/app.js
+ [Timer]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/29%20-%20Countdown%20Timer/js/app.js
