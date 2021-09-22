@@ -140,28 +140,28 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 ﻿![30](https://user-images.githubusercontent.com/68082746/134417267-9c82d7ae-fdde-4763-985d-abb9de874238.gif)
  
  [Pagina]: https://javascript30.com/
- [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
- [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/2%20JS%20Clock/js/app.js
- [CSSVariables]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/3%20CSS%20Variables/js/app.js
- [FlexPanelGallery]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/5%20Flex%20Panel%20Gallery/js/app.js
+ [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/01%20Drum%20Kit/js/app.js
+ [ClockJS]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/02%20JS%20Clock/js/app.js
+ [CSSVariables]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/03%20CSS%20Variables/js/app.js
+ [FlexPanelGallery]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/05%20Flex%20Panel%20Gallery/js/app.js
  [TypeAhead]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/6%20Type%20Ahead/js/app.js
- [HTML5Canvas]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/8%20Fun%20with%20HTML5%20Canvas/js/app.js
- [HoldShift]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/js/app.js
- [VideoPlayer]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/11%20-%20Custom%20Video%20Player/js/app.js
- [KeyDetection]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/12%20-%20Key%20Sequence%20Detection/js/app.js
- [SlideScroll]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/13%20-%20Slide%20in%20on%20Scroll/js/app.js
- [LocalStorage]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/15%20-%20LocalStorage/js/app.js
- [Movement]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/16%20-%20Mouse%20Shadow/js/app.js
- [SortArticles]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/17%20-%20Sort%20Without%20Articles/js/app.js
- [Reduce]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/18%20-%20Adding%20up%20times%20with%20Reduce/js/app.js
- [Webcam]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/19%20-%20Webcam%20Fun/js/app.js
- [Speech]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/20%20-%20Speech%20Detection/js/app.js
- [Location]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/21%20-%20Geolocation/js/app.js
- [Follow]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/22%20-%20Follow%20Along%20Link%20Highlighter/js/app.js
- [Synthesis]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/23%20-%20Speech%20Synthesis/js/app.js
- [NavBar]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/24%20-%20Sticky%20Nav/js/app.js
- [Stripe]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/26%20-%20Stripe%20Follow%20Along%20Nav/js/app.js
- [Drag]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/27%20-%20Click%20and%20Drag/js/app.js
- [Video]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/28%20-%20Video%20Speed%20Controller/js/app.js
- [Timer]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/29%20-%20Countdown%20Timer/js/app.js
- [Mole]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/30%20-%20Whack%20A%20Mole/js/app.js
+ [HTML5Canvas]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/08%20Fun%20with%20HTML5%20Canvas/js/app.js
+ [HoldShift]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/10%20Hold%20Shift%20and%20Check%20Checkboxes/js/app.js
+ [VideoPlayer]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/11%20Custom%20Video%20Player/js/app.js
+ [KeyDetection]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/12%20Key%20Sequence%20Detection/js/app.js
+ [SlideScroll]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/13%20Slide%20in%20on%20Scroll/js/app.js
+ [LocalStorage]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/15%20LocalStorage/js/app.js
+ [Movement]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/16%20Mouse%20Shadow/js/app.js
+ [SortArticles]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/17%20Sort%20Without%20Articles/js/app.js
+ [Reduce]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/18%20Adding%20up%20times%20with%20Reduce/js/app.js
+ [Webcam]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/19%20Webcam%20Fun/js/app.js
+ [Speech]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/20%20Speech%20Detection/js/app.js
+ [Location]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/21%20Geolocation/js/app.js
+ [Follow]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/22%20Follow%20Along%20Link%20Highlighter/js/app.js
+ [Synthesis]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/23%20Speech%20Synthesis/js/app.js
+ [NavBar]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/24%20Sticky%20Nav/js/app.js
+ [Stripe]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/26%20Stripe%20Follow%20Along%20Nav/js/app.js
+ [Drag]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/27%20Click%20and%20Drag/js/app.js
+ [Video]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/28%20Video%20Speed%20Controller/js/app.js
+ [Timer]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/29%20Countdown%20Timer/js/app.js
+ [Mole]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/30%20Whack%20A%20Mole/js/app.js
