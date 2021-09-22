@@ -126,6 +126,11 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 - ✔️ Completado, codigo fuente [Timer]
 - Temporizador para tareas
 ﻿![](https://i.imgur.com/YOjrRKA.png)
+
+ ## Dia 30 - Whack A Mole
+- ✔️ Completado, codigo fuente [Mole]
+- Mini-juego de pegarle a los animalitos
+﻿![](https://i.imgur.com/njGFmyk.png)
  
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
@@ -152,3 +157,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [Drag]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/27%20-%20Click%20and%20Drag/js/app.js
  [Video]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/28%20-%20Video%20Speed%20Controller/js/app.js
  [Timer]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/29%20-%20Countdown%20Timer/js/app.js
+ [Mole]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/30%20-%20Whack%20A%20Mole/js/app.js
