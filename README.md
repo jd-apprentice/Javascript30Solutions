@@ -1,4 +1,4 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+﻿﻿![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
 
@@ -7,44 +7,50 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 ## Dia 1 - Drum kit
 - ✔️ Completado, codigo fuente [Drumkit]
 - Drum Kit para tocar musica, reconoce el teclado
-﻿![](https://i.imgur.com/YLwOmQG.png)
+﻿![1](https://user-images.githubusercontent.com/68082746/134415600-a1a65279-8f9e-45ca-8ccd-a0f671abe3b3.gif)
+
 
 ## Dia 2 - Clock JS
-
 - ✔️ Completado, codigo fuente [ClockJS]
 - Reloj simple con hora local
-﻿![](https://i.imgur.com/Wr9tQMi.png)
+﻿!![2](https://user-images.githubusercontent.com/68082746/134415653-80c03c87-2255-49eb-a035-4f188e54d571.gif)
+
  
 ## Dia 3 - CSS Variables
- 
 - ✔️ Completado, codigo fuente [CSSVariables]
 - Actualizar variables de CSS en tiempo real con JS
-﻿![](https://i.imgur.com/5DqDBip.png)
+﻿![3](https://user-images.githubusercontent.com/68082746/134415696-41fa3569-6503-44cc-b8e9-da03a6d67a16.gif)
+
  
 ## Dia 5 - Flex Panel Gallery
 - ✔️ Completado, codigo fuente [FlexPanelGallery]
 - FlexBox/Manipulacion del dom para darle estilos on click
-﻿![](https://i.imgur.com/M1cbwJf.png)
+﻿![5](https://user-images.githubusercontent.com/68082746/134416076-0e5f6b30-22f5-46bf-9f2e-c1d113a3a0d7.gif)
+
    
 ## Dia 6 - Type Ahead
 - ✔️ Completado, codigo fuente [TypeAhead]
 - Filtro de busqueda consumiendo JSON
-﻿![](https://i.imgur.com/evySEZl.png)
+﻿![6](https://user-images.githubusercontent.com/68082746/134416147-8f6ae2f2-ef9b-4e4f-b7c1-159d2b9fba4e.gif)
+
  
 ## Dia 8 - HTML5 Canvas
 - ✔️ Completado, codigo fuente [HTML5Canvas]
 - Dibujar en pantalla con canvas
-﻿![](https://i.imgur.com/LMaU2YP.png)
+﻿![8](https://user-images.githubusercontent.com/68082746/134416193-2563562f-3a0f-4860-a224-fb483ed4a414.gif)
+
  
 ## Dia 10 - Hold Shift and Check Checkboxes
 - ✔️ Completado, codigo fuente [HoldShift]
 - Atajos del teclado en la web
-﻿![](https://cdn.discordapp.com/attachments/875262629516546089/883135793185579018/unknown.png)
+﻿![10](https://user-images.githubusercontent.com/68082746/134416408-ebcfd8a5-4289-45ea-a1ba-b3dd3e304dd1.gif)
+
  
 ## Dia 11 - Custom Video Player
 - ✔️ Completado, codigo fuente [VideoPlayer]
 - Reproductor de video de HTML5 modificado
-﻿![](https://i.imgur.com/D97FbBu.png)
+﻿![11](https://user-images.githubusercontent.com/68082746/134416856-64c44f95-d9a1-4c18-92d3-b8d5c1b41289.gif)
+
  
 ## Dia 12 - Key Detection
 - ✔️ Completado, codigo fuente [KeyDetection]
@@ -54,17 +60,17 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
 ## Dia 13 - Slide in on Scroll
 - ✔️ Completado, codigo fuente [SlideScroll]
 - Animacion de fotos a medida que vas scrolleando
-﻿![](https://i.imgur.com/UWTDlle.png)
+﻿![13](https://user-images.githubusercontent.com/68082746/134416918-828b5579-796f-4db1-b60c-a8f66fe4ec90.gif)
  
 ## Dia 15 - LocalStorage
 - ✔️ Completado, codigo fuente [LocalStorage]
 - Persistencia de datos con localStorage
-﻿![](https://i.imgur.com/coPijJ4.png)
+﻿![15](https://user-images.githubusercontent.com/68082746/134416981-011fc84f-0d4a-4bcd-a9a1-7552c7876791.gif)
  
  ## Dia 16 - Mouse Shadow/Position
 - ✔️ Completado, codigo fuente [Movement]
 - Movimiento/Sombra en base a la posicion del cursor
-﻿![](https://i.imgur.com/2N5turE.png)
+﻿![16](https://user-images.githubusercontent.com/68082746/134417019-ac3c3440-2271-4773-8561-3df493cc6501.gif)
 
  ## Dia 17 - Sort Without Articles
 - ✔️ Completado, codigo fuente [SortArticles]
@@ -96,7 +102,7 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
   ## Dia 22 - Follow Along Link Highlighter
 - ✔️ Completado, codigo fuente [Follow]
 - Seguimiento de cursor y actualizacion flexible de hover/highlight
-﻿![](https://i.imgur.com/VsE751V.png)
+﻿![22](https://user-images.githubusercontent.com/68082746/134417089-35dba4ae-36b3-4124-b5a7-db0d10e1d18e.gif)
  
   ## Dia 23 - Speech Synthesis
 - ✔️ Completado, codigo fuente [Synthesis]
@@ -106,26 +112,34 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
   ## Dia 24 - Sticky Navbar
 - ✔️ Completado, codigo fuente [NavBar]
 - Fixed navbar con animacion
-﻿![](https://i.imgur.com/n4nMk9u.png)
+﻿![24](https://user-images.githubusercontent.com/68082746/134417122-d914bff8-e1e0-41a6-bcf2-bca18160219a.gif)
 
   ## Dia 26 - Stripe Follow Along Nav
 - ✔️ Completado, codigo fuente [Stripe]
 - Dropdown que se autoajusta al contenido
-﻿![](https://i.imgur.com/v9HB4VK.png)
+﻿![26](https://user-images.githubusercontent.com/68082746/134417175-155e6a9c-517a-4c8b-bcb4-90562ec8caec.gif)
+ 
   ## Dia 27 - Click and Drag
 - ✔️ Completado, codigo fuente [Drag]
 - Arrastrar elementos con el mouse, drag/swiper
-﻿![](https://i.imgur.com/CSmLUFx.png)
+﻿![27](https://user-images.githubusercontent.com/68082746/134417203-2d0866cd-bd22-4379-885f-49921dbcb22a.gif)
+
  
  ## Dia 28 - Video Speed Controller
 - ✔️ Completado, codigo fuente [Video]
 - Controlar la velocidad del video
-﻿![](https://i.imgur.com/NDlzEyF.png)
+﻿![28](https://user-images.githubusercontent.com/68082746/134417438-e24924d9-57e2-41ef-a7c7-7f71350de861.gif)
  
  ## Dia 29 - Countdown Timer
 - ✔️ Completado, codigo fuente [Timer]
 - Temporizador para tareas
-﻿![](https://i.imgur.com/YOjrRKA.png)
+﻿![29](https://user-images.githubusercontent.com/68082746/134417251-0d33b4b0-b5df-45e3-99ff-b47a5f4e1f14.gif)
+
+
+ ## Dia 30 - Whack A Mole
+- ✔️ Completado, codigo fuente [Mole]
+- Mini-juego de pegarle a los animalitos
+﻿![30](https://user-images.githubusercontent.com/68082746/134417267-9c82d7ae-fdde-4763-985d-abb9de874238.gif)
  
  [Pagina]: https://javascript30.com/
  [Drumkit]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/1%20Drum%20Kit/js/app.js
@@ -152,3 +166,4 @@ JavaScrtip30 es un reto donde en 30 dias armas 30 cosas diferentes, para ver mas
  [Drag]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/27%20-%20Click%20and%20Drag/js/app.js
  [Video]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/28%20-%20Video%20Speed%20Controller/js/app.js
  [Timer]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/29%20-%20Countdown%20Timer/js/app.js
+ [Mole]: https://github.com/jd-apprentice/Javascript30Solutions/blob/main/30%20-%20Whack%20A%20Mole/js/app.js
